@@ -1,6 +1,6 @@
 # Instacart-Market-Basket-Analysis
 
-#Description
+# Description
 
 Instacart is a grocery delivery platform that allows customers to order groceries online and have them delivered, similar to services like Uber Eats or DoorDash. This dataset captures detailed information about customer shopping behavior, including items purchased, order sequences, and product categories. It is useful for analyzing purchase patterns, popular products, and cart-building behaviors.
 
