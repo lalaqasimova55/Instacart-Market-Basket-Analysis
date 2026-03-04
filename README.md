@@ -18,7 +18,7 @@ The dataset contains individual-level entries with details such as product name,
 
 ### Dataset
 
-The dataset used in this project is publicly available on Kaggle:https://www.kaggle.com/c/instacart-market-basket-analysis/overview
+The dataset used in this project is publicly available on Kaggle: https://www.kaggle.com/c/instacart-market-basket-analysis/overview
 
 ### Key Insights
 
